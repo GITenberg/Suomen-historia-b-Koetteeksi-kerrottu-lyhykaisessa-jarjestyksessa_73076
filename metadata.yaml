@@ -1,0 +1,25 @@
+_repo: Suomen-historia-b-Koetteeksi-kerrottu-lyhykaisessa-jarjestyksessa_73076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kainonen, J. F.
+    gutenberg_agent_id: '56935'
+    url: http://www.gutenberg.org/2009/agents/56935
+description: ''
+gutenberg_issued: '2024-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73076'
+language: fi
+pgterms:marc905: 20240227043235kainonen
+pgterms:marc906: '1840'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bG. O. Wasenius, $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suomen historia : $b Koetteeksi kerrottu lyhykäisessä järjestyksessä'
+url: http://www.gutenberg.org/ebooks/73076
